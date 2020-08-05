@@ -30,6 +30,7 @@ body {
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
+  position: relative;
 }
 
 #section-1,
